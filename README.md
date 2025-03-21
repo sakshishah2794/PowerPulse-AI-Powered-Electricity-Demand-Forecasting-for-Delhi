@@ -57,7 +57,7 @@ Industrial and commercial sectors contribute significantly to weekday electricit
 │── 📁 notebooks             # Jupyter notebooks for analysis  
 │── 📁 visualizations        # Power BI dashboards & charts  
 │── 📄 README.md             # Project documentation  
-│── 📄 requirements.txt      # Dependencies for the project  
+│── 📄 requirements.txt      Dependencies for the project  
 
 
 
